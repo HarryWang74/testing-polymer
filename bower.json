@@ -17,6 +17,7 @@
   "dependencies": {
     "polymer": "Polymer#^1.7.1",
     "iron-icon": "^1.0.12",
-    "iron-icons": "^1.2.0"
+    "iron-icons": "^1.2.0",
+    "paper-input": "^1.1.23"
   }
 }
